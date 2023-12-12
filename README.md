@@ -1,4 +1,5 @@
-# Alfood
+# Alfood 
+🚧 Projeto em construção.
 
 O Alfood é um site que lista restaurantes e pratos do menu. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
